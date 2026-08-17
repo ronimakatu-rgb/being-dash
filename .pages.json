@@ -2,15 +2,17 @@
  "pages": [
   "content.html",
   "crm.html",
+  "dept-investors.html",
   "dept-kitchen.html",
   "dept-sales.html",
   "goals.html",
   "health.html",
   "index.html",
+  "investors.html",
   "kitchen.html",
   "patterns.html",
   "sales.html",
   "tasks.html"
  ],
- "updated": "2026-08-17 15:09"
+ "updated": "2026-08-17 18:01"
 }
