@@ -1,0 +1,7 @@
+# staticrypt scratch dir. share_publish.py used to encrypt inside the working
+# tree of this PUBLIC repo, so every page was committed twice — once published
+# at the root, once under .staging/out/ — and each page passed through here as
+# plaintext for the moment staticrypt took to read it. The job now works in
+# ~/.config/being/share-staging, outside the repo. This entry stays as
+# belt-and-braces: `git add -A` must never pick that directory up again.
+.staging/
